@@ -1,6 +1,6 @@
 # ❤️ Life-Bar: Your Life's Journey Visualized
 
-![Life-Bar Screenshot](screenshot.png)
+![Life-Bar Screenshot](assets/screenshot.png)
 
 > 🚀 **Live Demo**: [https://lifebar.netlify.app/](https://lifebar.netlify.app/)
 
